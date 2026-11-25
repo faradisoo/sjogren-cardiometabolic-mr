@@ -1,0 +1,11 @@
+"id.exposure","chr.exposure","pos.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure","F_stat","HLA"
+"ebi-a-GCST90013879","6",31327660,"rs1811197","A","G",NA,0.604747,0.072278,1.19867e-14,407746,"Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",TRUE,"reported","igd",70.0059884139667,TRUE
+"ebi-a-GCST90013879","6",32625409,"rs28631719","G","A",NA,-0.583529,0.0756716,9.54333e-14,407746,"Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",TRUE,"reported","igd",59.4646757455915,TRUE
+"ebi-a-GCST90013879","6",31555480,"rs200801362","C","T",NA,0.659631,0.111345,3.09549e-08,407746,"Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",TRUE,"reported","igd",35.0962468375079,TRUE
+"ebi-a-GCST90013879","12",56539678,"rs149449770","C","G",NA,0.889814,0.15574,5.40854e-07,407746,"Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",TRUE,"reported","igd",32.643606065593,FALSE
+"ebi-a-GCST90013879","1",14536104,"rs1556984","A","G",NA,-0.626082,0.133857,8.54614e-07,407746,"Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",TRUE,"reported","igd",21.8766219106182,FALSE
+"ebi-a-GCST90013879","14",34813819,"rs55687614","T","C",NA,-0.930092,0.212797,1.27515e-06,407746,"Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",TRUE,"reported","igd",19.103846318754,FALSE
+"ebi-a-GCST90013879","13",95597663,"rs9516497","T","C",NA,-0.728772,0.167533,2.41118e-06,407746,"Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",TRUE,"reported","igd",18.922679159157,FALSE
+"ebi-a-GCST90013879","1",210672483,"rs12748886","A","G",NA,0.334203,0.0713748,3.76704e-06,407746,"Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",TRUE,"reported","igd",21.9245596531579,FALSE
+"ebi-a-GCST90013879","17",13523236,"rs7222942","A","G",NA,0.411875,0.0846509,4.15136e-06,407746,"Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",TRUE,"reported","igd",23.6737852756215,FALSE
+"ebi-a-GCST90013879","14",59913751,"rs1752404","G","A",NA,-0.329943,0.0702081,4.30626e-06,407746,"Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",TRUE,"reported","igd",22.0853048083909,FALSE

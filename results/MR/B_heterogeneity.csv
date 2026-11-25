@@ -1,0 +1,17 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"eqtl-a-ENSG00000188404","ebi-a-GCST90013879","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","SELL","MR Egger",2.5054602623478,3,0.474305099838383
+"eqtl-a-ENSG00000188404","ebi-a-GCST90013879","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","SELL","Inverse variance weighted",3.30207119871566,4,0.50860416163934
+"eqtl-a-ENSG00000188404","ieu-a-299","HDL cholesterol || id:ieu-a-299","SELL","MR Egger",2.79398161881029,3,0.424491608269164
+"eqtl-a-ENSG00000188404","ieu-a-299","HDL cholesterol || id:ieu-a-299","SELL","Inverse variance weighted",3.14849985782429,4,0.533289032479993
+"eqtl-a-ENSG00000188404","ieu-a-300","LDL cholesterol || id:ieu-a-300","SELL","MR Egger",1.32751891707888,3,0.72260904074907
+"eqtl-a-ENSG00000188404","ieu-a-300","LDL cholesterol || id:ieu-a-300","SELL","Inverse variance weighted",1.86462673265567,4,0.760639733024836
+"eqtl-a-ENSG00000188404","ieu-a-302","Triglycerides || id:ieu-a-302","SELL","MR Egger",1.22724830491503,3,0.746476733680726
+"eqtl-a-ENSG00000188404","ieu-a-302","Triglycerides || id:ieu-a-302","SELL","Inverse variance weighted",1.24553313248379,4,0.870546488689403
+"eqtl-a-ENSG00000188404","ieu-a-7","Coronary heart disease || id:ieu-a-7","SELL","MR Egger",2.43768407500128,3,0.486658295876898
+"eqtl-a-ENSG00000188404","ieu-a-7","Coronary heart disease || id:ieu-a-7","SELL","Inverse variance weighted",2.85555386741799,4,0.582281694501695
+"eqtl-a-ENSG00000188404","ieu-b-35","C-Reactive protein level || id:ieu-b-35","SELL","MR Egger",1.46826602584499,3,0.689613640993535
+"eqtl-a-ENSG00000188404","ieu-b-35","C-Reactive protein level || id:ieu-b-35","SELL","Inverse variance weighted",1.54189350058495,4,0.819195547791084
+"eqtl-a-ENSG00000188404","ieu-b-38","systolic blood pressure || id:ieu-b-38","SELL","MR Egger",4.36865532479652,3,0.224309424246531
+"eqtl-a-ENSG00000188404","ieu-b-38","systolic blood pressure || id:ieu-b-38","SELL","Inverse variance weighted",7.84363928932439,4,0.0974767553509862
+"eqtl-a-ENSG00000188404","ieu-b-39","diastolic blood pressure || id:ieu-b-39","SELL","MR Egger",1.04323979036707,3,0.790790789092583
+"eqtl-a-ENSG00000188404","ieu-b-39","diastolic blood pressure || id:ieu-b-39","SELL","Inverse variance weighted",6.50015948700544,4,0.164780334590971

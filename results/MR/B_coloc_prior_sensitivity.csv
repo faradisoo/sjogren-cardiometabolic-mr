@@ -1,0 +1,9 @@
+"gene","outcome","prior","nsnps","PP.H0.abf","PP.H1.abf","PP.H2.abf","PP.H3.abf","PP.H4.abf"
+"BANK1","diastolic blood pressure","default (p1 = p2 = 1e-4, p12 = 1e-5)",3741,2.31e-95,5e-81,4.63e-15,1,8.34e-17
+"BANK1","diastolic blood pressure","p12 = 1e-6",3741,2.31e-95,5e-81,4.63e-15,1,8.34e-18
+"BANK1","diastolic blood pressure","p12 = 1e-4",3741,2.31e-95,5e-81,4.63e-15,1,8.34e-16
+"BANK1","diastolic blood pressure","p1 = p2 = 1e-3, p12 = 1e-4",3741,3.24e-96,1.87e-81,1.73e-15,1,1.17e-16
+"BANK1","systolic blood pressure","default (p1 = p2 = 1e-4, p12 = 1e-5)",3668,1.63e-60,3.53e-46,4.63e-15,1,8.34e-17
+"BANK1","systolic blood pressure","p12 = 1e-6",3668,1.63e-60,3.53e-46,4.63e-15,1,8.34e-18
+"BANK1","systolic blood pressure","p12 = 1e-4",3668,1.63e-60,3.53e-46,4.63e-15,1,8.34e-16
+"BANK1","systolic blood pressure","p1 = p2 = 1e-3, p12 = 1e-4",3668,2.2e-61,1.29e-46,1.7e-15,1,1.12e-16

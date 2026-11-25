@@ -1,0 +1,15 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ebi-a-GCST90013879","ieu-a-299","HDL cholesterol || id:ieu-a-299","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","MR Egger",3.96256013482229,3,0.265535442840258
+"ebi-a-GCST90013879","ieu-a-299","HDL cholesterol || id:ieu-a-299","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","Inverse variance weighted",4.03175353906023,4,0.401725532256271
+"ebi-a-GCST90013879","ieu-a-300","LDL cholesterol || id:ieu-a-300","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","MR Egger",3.42934110553949,3,0.330042631836815
+"ebi-a-GCST90013879","ieu-a-300","LDL cholesterol || id:ieu-a-300","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","Inverse variance weighted",3.79101907738945,4,0.435026453673703
+"ebi-a-GCST90013879","ieu-a-302","Triglycerides || id:ieu-a-302","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","MR Egger",19.3979474402966,3,0.000226191468162689
+"ebi-a-GCST90013879","ieu-a-302","Triglycerides || id:ieu-a-302","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","Inverse variance weighted",22.5553368950831,4,0.000155341225060815
+"ebi-a-GCST90013879","ieu-a-7","Coronary heart disease || id:ieu-a-7","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","MR Egger",9.48718068995887,5,0.0911401969758665
+"ebi-a-GCST90013879","ieu-a-7","Coronary heart disease || id:ieu-a-7","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","Inverse variance weighted",9.52245801781442,6,0.146256767698778
+"ebi-a-GCST90013879","ieu-b-35","C-Reactive protein level || id:ieu-b-35","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","MR Egger",8.59474129225592,2,0.0136042824996415
+"ebi-a-GCST90013879","ieu-b-35","C-Reactive protein level || id:ieu-b-35","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","Inverse variance weighted",9.82579396668867,3,0.0201064999999441
+"ebi-a-GCST90013879","ieu-b-38","systolic blood pressure || id:ieu-b-38","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","MR Egger",5.61922270574141,3,0.131679148796464
+"ebi-a-GCST90013879","ieu-b-38","systolic blood pressure || id:ieu-b-38","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","Inverse variance weighted",7.40624940422534,4,0.115915061554781
+"ebi-a-GCST90013879","ieu-b-39","diastolic blood pressure || id:ieu-b-39","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","MR Egger",72.5284857104803,3,1.22659878014141e-15
+"ebi-a-GCST90013879","ieu-b-39","diastolic blood pressure || id:ieu-b-39","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879","Inverse variance weighted",86.2859537322549,4,8.09291225024745e-18

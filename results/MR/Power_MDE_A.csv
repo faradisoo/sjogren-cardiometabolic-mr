@@ -1,0 +1,8 @@
+"outcome","unit","MDE_allSNPs","MDE_HLA_excluded"
+"C-Reactive protein level","ln mg/L",0.0224652478995819,0.020760042224322
+"Coronary heart disease","OR",1.03280156138701,1.03902899549379
+"diastolic blood pressure","mmHg",0.231819838188671,0.0885847690949509
+"HDL cholesterol","SD",0.0140732200031116,0.0168992656655112
+"LDL cholesterol","SD",0.0154399096926929,0.0186500749555549
+"systolic blood pressure","mmHg",0.118672025514395,0.102796350029291
+"Triglycerides","SD",0.032936571279716,0.0166427209945316

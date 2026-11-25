@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0051385","response to mineralocorticoid","5/107","35/15672",0.142857142857143,20.9238985313752,9.78356888152104,3.72411321398265e-06,0.0071465732576327,0.00694253105469818,"FOSB/SCNN1G/INHBA/SCNN1A/CSN1S1",5

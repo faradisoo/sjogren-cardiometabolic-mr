@@ -1,0 +1,8 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ebi-a-GCST90013879","ieu-a-299","HDL cholesterol || id:ieu-a-299","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",-0.00760196890337229,0.0103690225654722,0.539758847951912
+"ebi-a-GCST90013879","ieu-a-300","LDL cholesterol || id:ieu-a-300","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",-0.012007075697111,0.0114315911717589,0.403755399962798
+"ebi-a-GCST90013879","ieu-a-302","Triglycerides || id:ieu-a-302","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",0.00540895538738431,0.0101896508038556,0.648587395105359
+"ebi-a-GCST90013879","ieu-a-7","Coronary heart disease || id:ieu-a-7","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",-0.0148550875359844,0.0240068678221802,0.579866970683129
+"ebi-a-GCST90013879","ieu-b-35","C-Reactive protein level || id:ieu-b-35","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",-0.0198654932279768,0.017881319111535,0.466566634421916
+"ebi-a-GCST90013879","ieu-b-38","systolic blood pressure || id:ieu-b-38","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",0.0556996850165354,0.068645440372556,0.502341028755338
+"ebi-a-GCST90013879","ieu-b-39","diastolic blood pressure || id:ieu-b-39","Sjogren's syndrome (Firth correction) || id:ebi-a-GCST90013879",0.0596127844318043,0.0543530347409551,0.387164941495091
